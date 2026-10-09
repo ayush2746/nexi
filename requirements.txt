@@ -1,0 +1,10 @@
+opencv-python
+PyQt5
+PyAutoGUI
+pyjokes
+pyttsx3
+SpeechRecognition
+PyAudio
+wikipedia
+winshell
+deep-translator
